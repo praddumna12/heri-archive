@@ -1,4 +1,4 @@
-data = "flag{c0ld_signals_thr0ugh_dead_air}"
+d
 key = "u9s1d3X0r"
 
 enc = ""
